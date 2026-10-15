@@ -1,6 +1,6 @@
 # New Grad 2027: early career jobs and programs
 
-**1,671 open new grad and entry level roles at 599 US companies.** Checked 15 Oct 2026. 425 posted in the last 7 days. 590 at employers with a visa sponsorship record.
+**1,647 open new grad and entry level roles at 593 US companies.** Checked 15 Oct 2026. 420 posted in the last 7 days. 576 at employers with a visa sponsorship record.
 
 Every role comes straight from the employer's own job board, picked up by [Litos](https://trylitos.com/?utm_source=github&utm_campaign=ng-readme&utm_medium=readme). Nothing is copied from LinkedIn or Indeed. Rebuilt every Monday, so closed roles drop off and new ones come in.
 
@@ -10,12 +10,12 @@ Only roles a new grad can actually apply to: titles that say new grad, graduate,
 
 | List | Roles | Companies |
 | --- | --- | --- |
-| [Early career programs](lists/programs.md) | 270 | 130 |
-| [Software, data and AI](lists/software-data.md) | 298 | 169 |
-| [Engineering and hardware](lists/engineering.md) | 751 | 282 |
-| [Finance, accounting and consulting](lists/finance-consulting.md) | 242 | 157 |
-| [Business, product and operations](lists/business-operations.md) | 825 | 400 |
-| [Science, research and healthcare](lists/science-healthcare.md) | 226 | 64 |
+| [Early career programs](lists/programs.md) | 267 | 128 |
+| [Software, data and AI](lists/software-data.md) | 293 | 167 |
+| [Engineering and hardware](lists/engineering.md) | 736 | 280 |
+| [Finance, accounting and consulting](lists/finance-consulting.md) | 235 | 156 |
+| [Business, product and operations](lists/business-operations.md) | 811 | 394 |
+| [Science, research and healthcare](lists/science-healthcare.md) | 224 | 64 |
 
 Every role in one spreadsheet: [csv/all-roles.csv](csv/all-roles.csv). Each list is also in [csv/](csv/). A role can appear in more than one list when it fits more than one field.
 
