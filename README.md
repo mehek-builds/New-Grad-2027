@@ -17,6 +17,7 @@ Only roles a new grad can actually apply to: titles that say new grad, graduate,
 | [Science, research and healthcare](lists/science-healthcare.md) | 314 | 112 |
 | [Investment banking and investing](lists/investment-banking-investing.md) | 9 | 9 |
 | [Chemical and process engineering](lists/chemical-process-engineering.md) | 19 | 16 |
+| [Quant research and trading](lists/quant-research-trading.md) | 14 | 12 |
 
 Every role in one spreadsheet: [csv/all-roles.csv](csv/all-roles.csv). Each list is also in [csv/](csv/). A role can appear in more than one list when it fits more than one field.
 
