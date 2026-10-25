@@ -1,6 +1,6 @@
-# 314 science, research and healthcare new grad roles
+# 313 science, research and healthcare new grad roles
 
-**314 roles at 111 companies.** Checked 20 Oct 2026. Research, lab, biology, chemistry, clinical and new grad nursing programs.
+**313 roles at 111 companies.** Checked 20 Oct 2026. Research, lab, biology, chemistry, clinical and new grad nursing programs.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -204,7 +204,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Fresenius Medical Care** | [New Graduate RN](https://trylitos.com/job/36f0112f-eb5e-4c96-8021-9909856bcb12?utm_source=github&utm_campaign=ng-science-healthcare) | Albuquerque, NM, USA; Las Cruces, NM, USA; Sa |  | Oct 9 |  |
 | **Banner Health** | [Registered Nurse RN New Graduate General PCU](https://trylitos.com/job/096b6c26-d66a-4a36-90b1-72f29f3cff49?utm_source=github&utm_campaign=ng-science-healthcare) | Banner Estrella Med Ctr (9201 W Thomas Rd); B |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **ICF** | [Wildlife Biologist (Entry Level, Remote)](https://trylitos.com/job/6504e243-2555-4450-97a2-7ebc93348c84?utm_source=github&utm_campaign=ng-science-healthcare) | Austin, TX |  | Oct 9 |  |
-| **ICF** | [Public Policy Researcher (Entry-Level; Reston, VA)](https://trylitos.com/job/6b5ed708-d3a3-44c3-abd8-2060147f74bf?utm_source=github&utm_campaign=ng-science-healthcare) | Reston, VA |  | Oct 9 |  |
 | **CoxHealth** | [Certified Nurse Assistant, Nurse Assistant, or Trainee - Night Shift - 800 West Tower](https://trylitos.com/job/821be503-4571-4473-bda4-0875878fcb64?utm_source=github&utm_campaign=ng-science-healthcare) | Springfield, MO |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Philips** | [Graduate Development Program Trainee - Medical Device (Plymouth, MN)](https://trylitos.com/job/9ee646bd-1e24-4870-bcfc-35d1fca0b779?utm_source=github&utm_campaign=ng-science-healthcare) | Plymouth, Minnesota, United States |  | Oct 9 |  |
 | **Avera** | [Registered Nurse (RN) - New Grad - May 2027](https://trylitos.com/job/4ae82048-e1f7-4d48-b7d5-7e6f2d9478e0?utm_source=github&utm_campaign=ng-science-healthcare) | Sioux Falls, SD |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
